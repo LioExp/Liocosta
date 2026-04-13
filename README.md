@@ -9,7 +9,7 @@ On my YouTube channel, "[LioExp](https://www.youtube.com/@lioexp1)" I share what
 If you're into tech, you're in the right place.
 
 <div> 
-  <a href="https://www.youtube.com/@DevGox?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@lioexp1?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/liocosta7/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/GoxDv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lio-costa-917258337/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,7 +19,7 @@ If you're into tech, you're in the right place.
 ---
 
 ### 🤖  Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,py,react,sqlite,fastapi,docker,postgres,selenium,vscode,flask,mysql,linux&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,sqlite,fastapi,docker,postgres,vscode,flask,mysql,linux&perline=19)](https://skillicons.dev)
 
 <br/>
 
