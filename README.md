@@ -1,4 +1,4 @@
-## Hi, I’m Lio exp — a tech enthusiast from Angola.
+## Hi, I’m Lio exp — a cybersecurity enthusiast
 
 **`Desenvolvedor FullStack`**
 
