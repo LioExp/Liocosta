@@ -18,7 +18,7 @@ If you're into tech, you're in the right place.
 ---
 
 ### 🤖  Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,py,react,html,css,rust,sqlite,fastapi,docker,postgres,vscode,flask,mysql,linux&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,rust,react,html,css,sqlite,postgres,fastapi,flask,docker,linux&perline=19)](https://skillicons.dev)
 
 <br/>
 
