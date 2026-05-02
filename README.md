@@ -81,20 +81,31 @@ Pipeline automatizado de red teaming para agentes de IA — ataca, analisa e def
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LioExp&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=AFA9EC&include_all_commits=true&hide_border=false"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioExp&theme=tokyonight&layout=compact&border_color=7F77DD&title_color=7F77DD&langs_count=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LioExp&theme=tokyo-night&bg_color=0d0a15&color=7F77DD&line=7F77DD&point=AFA9EC&area=true&area_color=3C3489&hide_border=false&border_color=3C3489" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LioExp&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=AFA9EC&currStreakLabel=7F77DD&hide_border=false)](https://git.io/streak-stats)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=LioExp&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=AFA9EC&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioExp&theme=tokyonight&layout=compact&border_color=7F77DD&title_color=7F77DD&langs_count=6"/>
 
 </div>
 
----
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LioExp&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=AFA9EC&currStreakLabel=7F77DD&dates=AFA9EC)](https://git.io/streak-stats)
+
+</div>
+
+
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=LioExp&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=7F77DD)
+
+</div>
 
 ---
 
