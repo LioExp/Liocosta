@@ -1,44 +1,107 @@
-## Hi, I’m Lio exp — a cybersecurity enthusiast
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0d0a15&height=200&section=header&text=LioExp&fontSize=80&fontColor=7F77DD&fontAlignY=50&stroke=7F77DD&strokeWidth=2&animation=fadeIn" width="100%"/>
 
-I’m currently studying IT at Itel High School and dedicating my days to building and learning through hands-on projects. I’m passionate about technology, programming, and self-taught development.
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=AI+Security+Enthusiast+%26+Builder;Criar+%E2%86%92+Quebrar+%E2%86%92+Proteger" alt="Typing SVG" />
 
-On my YouTube channel, "[LioExp](https://www.youtube.com/@lioexp1)" I share what I learn — from web development and automation to AI, bots, and cybersecurity.
-
-If you're into tech, you're in the right place.
-
-<div> 
-  <a href="https://www.youtube.com/@lioexp1?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lio_exp/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lio-costa-917258337/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</p>
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/LioExp-0d0a15?style=for-the-badge&logo=youtube&logoColor=7F77DD)](https://www.youtube.com/@lioexp1)
+[![X](https://img.shields.io/badge/@LioExp-0d0a15?style=for-the-badge&logo=x&logoColor=7F77DD)](https://x.com/LioExp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0a15?style=for-the-badge&logo=linkedin&logoColor=7F77DD)](https://www.linkedin.com/in/lio-costa-917258337/)
+
+</div>
+
+## 🧪 Projectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[MyFi](https://github.com/LioExp/myfi)** &nbsp; `exp_001`
+
+Monitor de rede para MiFi — detecta dispositivos desconhecidos e gera alertas em tempo real.
+
+![Python](https://img.shields.io/badge/Python-0d0a15?style=flat-square&logo=python&logoColor=7F77DD)
+![Scapy](https://img.shields.io/badge/Scapy-0d0a15?style=flat-square&logoColor=7F77DD)
+![Rich](https://img.shields.io/badge/Rich-0d0a15?style=flat-square&logoColor=7F77DD)
+
+</td>
+<td width="50%" valign="top">
+
+**[KiandaBot](https://github.com/LioExp/Kianda-bot)** &nbsp; `exp_002`
+
+Agente de IA para vendas no WhatsApp com rastreamento de afiliados e comissões automáticas.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0a15?style=flat-square&logo=fastapi&logoColor=7F77DD)
+![Python](https://img.shields.io/badge/Python-0d0a15?style=flat-square&logo=python&logoColor=7F77DD)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[FileFlow](https://github.com/LioExp/fileflow)** &nbsp; `exp_003`
+
+Organizador de ficheiros com soft delete e detecção de duplicatas — 100% open source.
+
+![Python](https://img.shields.io/badge/Python-0d0a15?style=flat-square&logo=python&logoColor=7F77DD)
+
+</td>
+<td width="50%" valign="top">
+
+**Auto-Purple AI** &nbsp; `exp_004` &nbsp; ![WIP](https://img.shields.io/badge/em_construção-febc2e?style=flat-square)
+
+Pipeline automatizado de red teaming para agentes de IA — ataca, analisa e defende.
+
+![PyRIT](https://img.shields.io/badge/PyRIT-0d0a15?style=flat-square&logoColor=7F77DD)
+![Python](https://img.shields.io/badge/Python-0d0a15?style=flat-square&logo=python&logoColor=7F77DD)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖  Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,py,rust,react,html,css,sqlite,postgres,fastapi,flask,docker,linux&perline=19)](https://skillicons.dev)
+## 🛠️ Stack
 
-<br/>
+<div align="center">
 
-<br/>
+[![Skills](https://skillicons.dev/icons?i=py,linux,bash,docker,fastapi,sqlite,postgres,git,github&perline=9&theme=dark)](https://skillicons.dev)
 
-### 📊 Estatísticas
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LioExp&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioExp&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+---
 
+## 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LioExp&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=AFA9EC&include_all_commits=true&hide_border=false"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioExp&theme=tokyonight&layout=compact&border_color=7F77DD&title_color=7F77DD&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LioExp&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=AFA9EC&currStreakLabel=7F77DD&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0a15&height=100&section=footer" width="100%"/>
+
+`// build. break. document.` &nbsp;·&nbsp; *Col 3:23*
+
+</div>
